@@ -1,3 +1,4 @@
-./data
-./import
-./logs
+#Ignore Sensitive Files
+/data
+/import
+/logs
