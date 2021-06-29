@@ -8,6 +8,8 @@ This repository is created with objective to run a Instance of Comunity Neo4j sy
 
 # Instructions to Run
 
+    - Create a data repository on project folder and put this on Volume map on docker-compose file
+
 To up your container: 
  ```sh
  docker-compose up
